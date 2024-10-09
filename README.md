@@ -75,11 +75,14 @@ Ce projet consiste à développer une interface de mesure de la lumière en util
 Pour une prise en main détaillée du capteur et du projet, veuillez consulter le document `Guide_Prise_en_Main.pdf` dans le répertoire `documentation`.
 Une démonstration du projet est également disponible sous forme de vidéo dans le répertoire `Video` (fichier `Demo.mp4`).
 
+Note : Git ne supporte pas nativement le format MP4. Le fichier vidéo Demo.mp4 est inclus à titre de référence, mais ne peut pas être visionné directement depuis le dépôt. Vous devrez télécharger le fichier pour visionner la démonstration. La vidéo se trouve dans le répertoire Video.
+
+
 ## Diagramme de Gantt
 Le diagramme de Gantt détaillant la planification du projet est disponible dans le fichier `gantt.pdf` situé dans le répertoire `documentation`.
 
 
-
+## Note bien : 
 
 
 

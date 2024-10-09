@@ -58,5 +58,8 @@ This project aims to develop a light measurement interface using the SI1151 sens
 For a detailed guide on the sensor and the project, please refer to the `Guide_Prise_en_Main.pdf` document located in the `documentation` folder.
 A video demonstration of the project is also available in the `Video` directory (file `Demo.mp4`).
 
+Note: Git does not natively support the MP4 format. The video file Demo.mp4 is included for reference but cannot be viewed directly from the repository. You will need to download the file to watch the demonstration. The video can be found in the Video directory.
+
+
 ## Gantt Chart:
 The Gantt chart outlining the project schedule is available in the `gantt.pdf` file located in the `documentation` folder.
