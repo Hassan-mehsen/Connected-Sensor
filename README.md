@@ -30,7 +30,7 @@ Ce projet consiste à développer une interface de mesure de la lumière en util
 ### API en C :
 
 1. **Compilation de l'API :(si vous êtes sur l'environement ENIB sur linux)**
-   - Naviguez vers le répertoire `~/Projet_EMB_SI1151_MEHSEN_KHALAF` et ouvrez-le dans un terminal.
+   - Naviguez vers le répertoire `.../Connected-Sensor` et ouvrez-le dans un terminal.
    - Compilez le code en utilisant le Makefile : make
    - tapez **ocd &** 
    - tapez **dbg main.elf** pour ouvrir le débogueur et lancer le programme.
@@ -57,14 +57,14 @@ Ce projet consiste à développer une interface de mesure de la lumière en util
      **python -m venv venv**
      **source venv/bin/activate**  # Sur Windows, utilisez `venv\Scripts\activate`
    - Assurez-vous d'avoir Python 3.x installé.
-   - Installez les dépendances en utilisant le fichier `requirements.txt` :tapez `cd ~/Downloads/Projet_EMB_SI1151_MEHSEN_KHALAF`
+   - Installez les dépendances en utilisant le fichier `requirements.txt` :tapez `cd ~/Downloads/Connected-Sensor`
      puis `pip install -r requirements.txt` 
    
 
 2. **Lancement de l'IHM :**
    - Assurez-vous que la carte est bien câblée avec le PC et que le capteur est bien lié à la carte via le bus I2C,
      et que vous avez lancé le programme via le débogueur ou via STM32CubeIDE.
-   - Naviguez vers le répertoire : `~/Projet_EMB_SI1151_MEHSEN_KHALAF/IHM`
+   - Naviguez vers le répertoire : `...../Connected-Sensor/IHM`
    - Exécutez le script Python principal : **python3 main.py**
    
    
@@ -77,9 +77,6 @@ Une démonstration du projet est également disponible sous forme de vidéo dans
 
 ## Diagramme de Gantt
 Le diagramme de Gantt détaillant la planification du projet est disponible dans le fichier `gantt.pdf` situé dans le répertoire `documentation`.
-
-## Présentation
-Les vignettes de la présentation orale sont centralisées dans le document `vignettes_Presentation_orale.txt` situé dans le répertoire `documentation`.
 
 
 
