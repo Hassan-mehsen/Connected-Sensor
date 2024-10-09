@@ -54,6 +54,8 @@ This project aims to develop a light measurement interface using the SI1151 sens
    - Navigate to the directory: `...../Connected-Sensor/IHM`
    - Run the main Python script: **python3 main.py**
 
+
+
 ## Sensor and Project Overview:
 For a detailed guide on the sensor and the project, please refer to the `Guide_Prise_en_Main.pdf` document located in the `documentation` folder.
 A video demonstration of the project is also available in the `Video` directory (file `Demo.mp4`).
